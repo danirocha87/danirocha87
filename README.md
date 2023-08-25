@@ -1,5 +1,5 @@
   -🥰 Ola sou a   Dani Rocha.
- - 👩‍🎓  Sou estudante de Analise e desenvolvimento de sistems na faculdade Cruzeiro do Sul.
+ - 👩‍🎓  Estudante de Analise e desenvolvimento de sistems na faculdade Cruzeiro do Sul.
  - 👩‍🎓 Estudando também nos Projetos:
       Generation Brasil (Java full-stack);
       RocketSeat (FrontEnd React);
